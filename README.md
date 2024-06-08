@@ -50,5 +50,5 @@ pip install -r requirements.txt
 4. come to your local drive -> make a project folder -> right click inside the foalder->"open git bash here" 
 5. under the "git bash" commad prompt write "git clone " then paste the path copyed from github(3)
 6. A foalder name as your git repositary will be created inside the project foalder
-7. cd <repositary name>
+7. cd \<repositary name\>
 8. under git bash write "code ." -> vs code will open
