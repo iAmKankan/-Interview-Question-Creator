@@ -26,11 +26,8 @@ conda activate interview
 conda activate interview
 ```
 > #### Not working 
-> 1) `source activate base` and then,
+> `source activate base` and then,
 > `conda activate interview`
-> Or
-> Open 'Anaconda Prompt' or 'Git Bash' and run: `conda init bash` 
-> If you are in 'Git Bash' run: `echo '. ${HOME}/.bash_profile' >> ~/.bashrc` and enjoy
 
 3. Install requirements
 ```bash
